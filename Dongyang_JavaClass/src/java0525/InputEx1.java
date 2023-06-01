@@ -105,7 +105,7 @@ public class InputEx1 extends JFrame {
 		btnSelect = new JButton("조회");
 		con.add(btnSelect);
 		// 검색 부분
-		tfSearch = new JTextField(20);
+		tfSearch = new JTextField(18);
 		rbId = new JRadioButton("학번", true);
 		rbName = new JRadioButton("이름");
 		rbDept = new JRadioButton("학과");
